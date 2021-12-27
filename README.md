@@ -1,5 +1,7 @@
 ### Package CDN link
-https://cdn.jsdelivr.net/gh/mehedi23-template/gallery-test@main/main.js
+```html
+<script defer src="https://cdn.jsdelivr.net/gh/mehedi23-template/gallery-test@main/main.js" ></script>
+```
 
 ### HTML installation
 ```html
