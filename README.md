@@ -1,3 +1,5 @@
+
+### HTML installation
 ```html
     <div class="gallery">
         <div class="grid_img">
@@ -9,6 +11,7 @@
     </div>
 ```
 
+### Js installation
 ```js
 new gallery(".gallery" , {
     gap : "10px", // gap between the boxes
@@ -17,7 +20,7 @@ new gallery(".gallery" , {
 });
 ```
 
-Customize options
+### Customize options
 
 | Options       | Type          | Value                    |
 | ------------- | ------------- | ------------------------ |
